@@ -12,4 +12,6 @@ The Password Strength Checker project was a significant accomplishment in creati
 The program's ability to evaluate password strength, compare against a leaked database, and provide valuable feedback contributes to improving online security and fostering responsible password practices. 
 By promoting the use of strong passwords and raising awareness about the risks of weak or compromised passwords, the project has made a significant impact in creating a safer online environment.
 
+(If Project archive don't work, see the the code in c1.cpp)
+
 This is for educational practice only.
